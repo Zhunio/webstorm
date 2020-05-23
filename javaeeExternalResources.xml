@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://schemas.opengis.net/wfs/1.1.0/wfs.xsd" />
+  </component>
+</application>
