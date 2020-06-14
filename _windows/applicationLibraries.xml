@@ -44,5 +44,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="read-excel-file" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_read-excel-file@4.x_bundle_read-excel-file.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_read-excel-file@4.x_bundle_read-excel-file.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
