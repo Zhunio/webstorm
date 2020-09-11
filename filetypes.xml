@@ -22,6 +22,7 @@
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="env" type="Shell Script" />
       <mapping pattern="dashboard-sql" type="TypeScript" />
+      <mapping pattern="web.config" type="XML" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
