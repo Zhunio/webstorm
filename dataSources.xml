@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="localhost" uuid="a4ff35af-5618-4af1-b90f-ac3ea7d7a120">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Municity 5 RDS Greenwich Town CT" uuid="2be2f7e8-f540-49d2-a8fd-b0b9cb6c0181">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://greenwichtownct.municityrds.com</jdbc-url>
+    </data-source>
+  </component>
+</application>
