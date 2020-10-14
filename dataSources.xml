@@ -12,5 +12,35 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://greenwichtownct.municityrds.com</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Municity 5 DB 1" uuid="a7fa5c53-38f8-4760-9634-d713f7779c78">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://municity5.com:1435</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Municity 5 DB 2" uuid="580ca84c-f665-41ec-8fb3-66f9a0ddc0fb">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://municity5.com:1436</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Municity 5 DB 3" uuid="23f0f8c7-1740-4105-8c7c-551fa3b2330f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://municity5.com:1437</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Municity 5 DB 4" uuid="879cdcc0-98b9-4025-b32f-4f34114e0499">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://municity5.com:1438</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Municity 5 RDS Huntington Town NY" uuid="273afe50-4aa7-480c-9566-e9e8b5cd27a9">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://huntingtontownny.municityrds.com</jdbc-url>
+    </data-source>
   </component>
 </application>
