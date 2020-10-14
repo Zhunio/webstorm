@@ -39,12 +39,15 @@
     <option name="cloneParentDir" value="C:\Users\rzhunio\Development\Node" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
         <option value="1" />
         <option value="2" />
         <option value="3" />
+        <option value="4" />
       </list>
     </option>
   </component>
