@@ -70,10 +70,12 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
