@@ -21,8 +21,9 @@
     <option name="indicatorThickness" value="5" />
     <option name="rightTreeIndent" value="12" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="5b91ff" />
     <option name="highlightColor" value="00ddcf" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-44ab5d71:16c3b83486f:-7ffb" />
     <option name="version" value="5.2.0" />
   </component>
