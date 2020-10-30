@@ -103,7 +103,7 @@
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
