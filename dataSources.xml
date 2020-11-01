@@ -42,5 +42,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://huntingtontownny.municityrds.com</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Municity 5 ServiceAccess" uuid="8fcc071f-0c4c-4716-9be1-441d448cc6ff">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://serviceaccess.municityrds.com</jdbc-url>
+    </data-source>
   </component>
 </application>
