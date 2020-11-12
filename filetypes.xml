@@ -17,6 +17,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
