@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="6e6a127fe6" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_6e6a127fe6.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_6e6a127fe6.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
