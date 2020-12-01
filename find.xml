@@ -13,9 +13,9 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*Wizard.js</mask>
     <mask>*Calendar*</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
   </component>
 </application>
