@@ -1,7 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping ext="vpp" type="Native" />
       <mapping ext="mdj" type="Native" />
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
@@ -18,17 +17,15 @@
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="env" type="Shell Script" />
       <mapping pattern="dashboard-sql" type="TypeScript" />
       <mapping pattern="web.config" type="XML" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
