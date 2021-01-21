@@ -25,6 +25,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
