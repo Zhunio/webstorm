@@ -3,18 +3,18 @@
     <option name="languageName" value="JavaScript" />
     <option name="languageToProjectMap">
       <map>
-        <entry key="JavaScript" value="$USER_HOME$/Development/Web/LearnJavaScriptProject" />
+        <entry key="JavaScript" value="$APPLICATION_CONFIG_DIR$/demo/LearnJavaScriptProject" />
       </map>
     </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="before debugging: run/debug configurations" value="NOT_PASSED" />
+        <entry key="before debugging: run/debug configurations" value="PASSED" />
         <entry key="code editing tips and tricks" value="PASSED" />
         <entry key="debugging code. part i" value="NOT_PASSED" />
         <entry key="debugging code. part ii" value="NOT_PASSED" />
-        <entry key="fundamentals of testing in webstorm" value="NOT_PASSED" />
+        <entry key="fundamentals of testing in webstorm" value="PASSED" />
         <entry key="refactorings in a nutshell" value="PASSED" />
         <entry key="secrets of efficient navigation" value="PASSED" />
         <entry key="the nuts and bolts of code completion" value="PASSED" />
