@@ -34,6 +34,19 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCloneCaretAbove" />
   <action id="EditorCloneCaretBelow" />
+  <action id="EditorDuplicate" />
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="GotoAction">
@@ -41,6 +54,8 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="GotoRelated" />
+  <action id="List-selectFirstRowExtendSelection" />
+  <action id="List-selectLastRowExtendSelection" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
