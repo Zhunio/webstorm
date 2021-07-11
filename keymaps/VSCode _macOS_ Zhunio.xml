@@ -40,8 +40,12 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
+  <action id="GotoRelated" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt up" />
