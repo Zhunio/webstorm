@@ -49,10 +49,6 @@
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="shift meta a" />
-  </action>
   <action id="GotoRelated" />
   <action id="List-selectFirstRowExtendSelection" />
   <action id="List-selectLastRowExtendSelection" />
