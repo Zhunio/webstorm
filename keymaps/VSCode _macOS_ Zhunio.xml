@@ -50,6 +50,11 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="Force touch" />
+  </action>
   <action id="GotoRelated" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -74,6 +79,13 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="RecentFiles" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Switcher" />
 </keymap>
