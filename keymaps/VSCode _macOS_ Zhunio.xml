@@ -34,7 +34,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCloneCaretAbove" />
   <action id="EditorCloneCaretBelow" />
+  <action id="EditorDecreaseFontSize" />
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize" />
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -76,6 +78,12 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
@@ -99,5 +107,6 @@
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="SplitVertically" />
   <action id="Switcher" />
 </keymap>
