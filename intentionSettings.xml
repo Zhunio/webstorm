@@ -4,5 +4,6 @@
     <ignoreAction name="Java/Declaration/Create Test" />
     <ignoreAction name="Java/Declaration/Implement abstract class or interface" />
     <ignoreAction name="JavaScript/ECMAScript 6/Propagate to destructuring declaration" />
+    <ignoreAction name="JavaScript/Convert anonymous function to named function" />
   </component>
 </application>
