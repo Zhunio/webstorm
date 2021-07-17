@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
@@ -29,6 +30,7 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="Switcher" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
