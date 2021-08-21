@@ -44,6 +44,10 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="SplitVertically" />
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="shift meta period" />
