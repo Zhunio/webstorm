@@ -33,6 +33,10 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
   <action id="QuickJavaDoc">
@@ -40,6 +44,7 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="RecentFiles" />
+  <action id="SplitVertically" />
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
